@@ -22,6 +22,8 @@ public class NewSort {
 		for(int i:arr2){
 			System.out.print(i);
 			System.out.print(", ");
+		System.out.println("FINISHED");
+			
 		// TODO Auto-generated method stub
 	}
 
